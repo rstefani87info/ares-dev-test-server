@@ -1,9 +1,7 @@
-# Logs
+﻿# Logs
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -63,7 +61,6 @@ web_modules/
 *.tgz
 
 # Yarn Integrity file
-.yarn-integrity
 
 # dotenv environment variable files
 .env
@@ -137,3 +134,4 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+

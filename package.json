@@ -1,0 +1,19 @@
+{
+  "name": "@ares/dev-test-server",
+  "version": "1.0.0",
+  "description": "Test server and devops module of aReS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Stefani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstefani87info/ares-dev-test-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rstefani87info/ares-dev-test-server.git/issues"
+  },
+  "homepage": "https://github.com/rstefani87info/ares-dev-test-server.git#readme"
+}
